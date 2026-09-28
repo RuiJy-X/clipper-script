@@ -1,0 +1,13 @@
+[00:00:05] Host: Welcome back to The Founder's Corner podcast! Today I'm joined by Sarah Chen, founder of Nova Robotics. Sarah, thanks for coming on.
+[00:00:15] Sarah: Thanks for having me, Mark! Excited to be here.
+[00:00:22] Host: Let's jump right into the big news. You just raised a $50M Series B, but three years ago you were literally living in a converted garage fixing robot arms by hand. What was the turning point?
+[00:00:38] Sarah: Honestly, the lowest point was when our first prototype caught fire during a live demo in front of twenty angel investors. The smoke alarm went off, and I had to use a fire extinguisher on our own robot. But instead of laughing us out of the room, one investor came up to me and said, "I love founders who aren't afraid of a little smoke. Here is $100k." That changed everything.
+[00:01:15] Host: That is unbelievable! Most people would have quit on the spot. Why didn't you?
+[00:01:23] Sarah: Because if you give up when things catch fire, you're not an entrepreneur, you're just a spectator. Every major breakthrough starts as a catastrophic malfunction that someone was stubborn enough to debug.
+[00:01:45] Host: Let's talk about AI in hardware. Everyone is talking about LLMs and code generation, but what is the most misunderstood aspect of physical AI right now?
+[00:02:02] Sarah: The biggest myth is that simulation can solve 100% of real-world physics. In a simulator, friction is clean, lighting is uniform, and parts never get greasy or dusty. The moment your robot touches real wood, real steel, or human hands, the sim-to-real gap punches you right in the face. Real intelligence is handling the chaos of physical reality.
+[00:02:40] Host: What's your advice to young software engineers who want to break into robotics or hard tech?
+[00:02:52] Sarah: Stop doing only Kaggle competitions and buy a $20 soldering iron. Build something that moves in the real world. When your code causes a real motor to spin or a real sensor to ping, the dopamine hit is 10 times stronger than seeing a terminal print "Hello World".
+[00:03:20] Host: Where can people follow your journey and learn more about Nova Robotics?
+[00:03:30] Sarah: You can find us at novarobotics.io and on Twitter @sarahchen_tech.
+[00:03:45] Host: Fantastic. Thanks again Sarah, and thank you everyone for tuning in!
