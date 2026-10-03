@@ -4,3 +4,6 @@ __pycache__/
 /tests/
 /videos/
 .env
+/CapcutAPI
+/cleaned
+*.mp4

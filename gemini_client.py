@@ -152,7 +152,7 @@ class GeminiClipFinderClient:
     def __init__(
         self,
         api_key: Optional[str] = None,
-        model_name: str = "gemini-2.0-flash",
+        model_name: str = "gemini-3.5-flash-lite",
     ):
         self.api_key = api_key or os.getenv("GEMINI_API_KEY")
         self.model_name = model_name
@@ -168,6 +168,7 @@ class GeminiClipFinderClient:
         """Returns a prioritized list of models to try in case of 404 not found."""
         candidates = [self.model_name]
         fallbacks = [
+            "gemini-3.5-flash",
             "gemini-2.0-flash",
             "gemini-1.5-flash",
             "gemini-1.5-flash-latest",

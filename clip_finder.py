@@ -92,7 +92,7 @@ def run_clip_finder(
     max_clip_len: int = 90,
     num_clips: int = 8,
     output_dir: Optional[str] = None,
-    gemini_model: str = "gemini-2.0-flash",
+    gemini_model: str = "gemini-3.5-flash",
     api_key: Optional[str] = None,
     precise: bool = False,
     whisper_model: str = "base",
